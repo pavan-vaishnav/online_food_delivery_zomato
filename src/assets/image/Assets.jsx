@@ -1,5 +1,5 @@
-import logo from './logo.webp'
 import pizza from './Pizza18.webp'
+import logo from './logo.webp'
 import Burger from './Burger6.webp'
 import cake from './cake2.webp'
 import biryani from './Veg-biryani.webp'
@@ -1676,12 +1676,7 @@ export const menu_list_brands=[
     ]
 
 
-
-
-
-
 // footer section iamges 
-
 import apple from './AppStore Logo.webp'
 export const apple_logo={
     apple
@@ -1694,4 +1689,3 @@ import indianflag from "./indian_flag.jpeg"
 export const indian_flag={
   indianflag
 }
-
