@@ -30,7 +30,7 @@ import Burger6 from "./Burger6.webp";
 import Burger7 from "./Burger7.webp";
 import Cake2 from "./cake2.webp";
 import Cake3 from "./cake3.webp";
-// import Cake4 from "./cake4.webp";
+import Cake4 from "./cake4.webp";
 import Cake5 from "./cake5.webp";
 import Cake6 from "./cake6.webp";
 import Cake7 from "./cake7.webp";
@@ -368,15 +368,15 @@ export const menu_list_brands=[
         category:"Cake",
         deliveryTime:"21min"
     },
-    // {
-    //     _id:"12",
-    //     name:"cake-4",
-    //     image:Cake4,
-    //     price:100,
-    //     description:"Delicious and creamy cake",
-    //     category:"Cake",
-    //     deliveryTime:"21min"
-    // },
+    {
+        _id:"12",
+        name:"cake-4",
+        image:Cake4,
+        price:100,
+        description:"Delicious and creamy cake",
+        category:"Cake",
+        deliveryTime:"21min"
+    },
     {
         _id:"13",
         name:"cake-5",
